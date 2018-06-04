@@ -1,4 +1,4 @@
-# State Management - Observer pattern vs Mobx
+# Hyfer State Management - Observer vs Mobx
 
 ## Introduction
 
